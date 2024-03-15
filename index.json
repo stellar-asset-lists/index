@@ -1,5 +1,19 @@
 [
   {
+    "name": "Lobstr Curated List",
+    "provider": "UltraStellar",
+    "description": "List of assets curated by Lobstr wallet team.",
+    "url": "https://lobstr.co/api/v1/sep/assets/curated.json",
+    "icon": "https://bafkreifa2ngcwtfgycel537nxgsj7svrodzcnv4mytoz5q7cvb6oe7zppm.ipfs.nftstorage.link"
+  },
+  {
+    "name": "Soroswap List",
+    "provider": "SoroswapFinance",
+    "description": "Assets curated by Soroswap developers.",
+    "url": "https://raw.githubusercontent.com/soroswap/token-list/main/tokenList.json",
+    "icon": "https://soroswap.finance/images/logo-dark.svg"
+  },
+  {
     "name": "StellarExpert Top 50",
     "provider": "StellarExpert",
     "description": "Dynamically generated list based on technical asset metrics, including payments and trading volumes, interoperability, userbase, etc. Assets included in this list were not verified by StellarExpert team. StellarExpert is not affiliated with issuers, and does not endorse or advertise assets in the list.",
